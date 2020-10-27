@@ -58,3 +58,16 @@ C:\Users\CUATITO-PC\Desktop\Proyectos HITHUB\Proyecto ANAKARY\Tienda ANAKARY\GUI
 C:\Users\CUATITO-PC\Desktop\Proyectos HITHUB\Proyecto ANAKARY\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
 C:\Users\CUATITO-PC\Desktop\Proyectos HITHUB\Proyecto ANAKARY\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.exe
 C:\Users\CUATITO-PC\Desktop\Proyectos HITHUB\Proyecto ANAKARY\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.csprojAssemblyReference.cache
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.frmVentas.resources
+C:\Users\ACER-PC\Desktop\PROYECTOS GITHUB\Tienda ANAKARY\GUI_V_2\obj\Debug\GUI_V_2.frmProductos.resources

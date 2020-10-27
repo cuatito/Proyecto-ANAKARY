@@ -1,6 +1,6 @@
 ﻿namespace GUI_V_2
 {
-    partial class Productos
+    partial class frmProductos
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Productos));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProductos));
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.btnCerrar = new System.Windows.Forms.Label();
@@ -72,6 +72,7 @@
             this.btnCerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.ForeColor = System.Drawing.Color.DimGray;
+            this.btnCerrar.ImageAlign = System.Drawing.ContentAlignment.TopRight;
             this.btnCerrar.Location = new System.Drawing.Point(8, 7);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(17, 17);
@@ -103,7 +104,7 @@
             this.textBox3.Size = new System.Drawing.Size(195, 24);
             this.textBox3.TabIndex = 6;
             // 
-            // Productos
+            // frmProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -116,7 +117,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Productos";
+            this.Name = "frmProductos";
             this.Text = "Productos";
             this.ResumeLayout(false);
             this.PerformLayout();

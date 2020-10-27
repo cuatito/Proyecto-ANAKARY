@@ -62,7 +62,7 @@ namespace GUI_V_2
             SendMessage(this.Handle,0x112,0xf012,0);
         }
 
-        private void AbrirFormEnPanel(object Formhijo)
+        public void AbrirFormEnPanel(object Formhijo)
         {
             if (this.panelContenedor.Controls.Count > 0)
                 this.panelContenedor.Controls.RemoveAt(0);
@@ -76,7 +76,7 @@ namespace GUI_V_2
 
         private void btnprod_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Productos());
+            AbrirFormEnPanel(new frmProductos());
         }
 
         private void btnlogoInicio_Click(object sender, EventArgs e)
@@ -87,6 +87,17 @@ namespace GUI_V_2
         private void Form1_Load(object sender, EventArgs e)
         {
             btnlogoInicio_Click(null,e);
+            AbrirFormEnPanel(new InicioResumen());
+        }
+
+        private void btnVentas_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new frmVentas());
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
